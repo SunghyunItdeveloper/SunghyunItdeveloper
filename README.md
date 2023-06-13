@@ -34,10 +34,7 @@
 
 
 <div align=left>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunghyunItdeveloper
-&layout=compact">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunghyunItdeveloper&langs_count=10&layout=compact&theme=dark)](https://github.com//SunghyunItdeveloper/SunghyunItdeveloper)
 <img src="https://github-readme-stats.vercel.app/api?username=SunghyunItdeveloper&show_icons=true">  
 </div>
 <br>
- **SunghyunItdeveloper/SunghyunItdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
